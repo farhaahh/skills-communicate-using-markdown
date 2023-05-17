@@ -12,3 +12,7 @@ Mixed forest of conifers and decidious trees.
 Humid climate.
 
 ![tree](https://github.com/farhaahh/skills-communicate-using-markdown/assets/133571430/0e9f834a-9315-42b2-8e62-139e92efaba4)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
